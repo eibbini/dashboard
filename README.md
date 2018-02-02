@@ -11,4 +11,7 @@ npm install
 # serve with hot reload at localhost:8000
 npm run dev
 
+# Application is running on port 8080
+http://localhost:8080
+
 ```
